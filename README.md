@@ -27,9 +27,9 @@ webtechnologie/
 
 ## Oefeningen
 
-1. [grid-intro](grid-intro/)
-2. [grid-basic](grid-basic/)
-3. [grid-nested](grid-nested/)
-5. [grid-color](grid-color/)
-6. [grid-advanced](grid-advanced/)
+1. [drieluik](drieluik/)
+2. [page-layout](grid-layout-nested/)
+3. [page-layout-nested](page-layout-nested/)
+4. [pretty-colors](pretty-colors/)
+5. [hamburger](hamburger/)
 6. [CSS Grid Garden](https://cssgridgarden.com/)
